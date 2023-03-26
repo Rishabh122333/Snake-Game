@@ -170,4 +170,4 @@ function getRandomFood() {
 init();
 
 
-const id= setInterval(gameLoop, 150);
+const id= setInterval(gameLoop, 100);
